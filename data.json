@@ -9,7 +9,16 @@
             "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-            }
+        },
+        {
+            "name": "live2",
+            "type": 0,
+            "playerType": 1,
+            "url": "https://helloy0920.github.io/tvsourceconfig.github.io/live.txt",
+            "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
     ],
     "sites": [{
         "key": "南瓜",
