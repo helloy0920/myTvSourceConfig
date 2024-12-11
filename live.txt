@@ -98,6 +98,14 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 
 
 地方台,#genre#
+湖南经视,http://4eae7f.tv.netsite.cc/proxy/1075467511/1075467511.m3u8
+湖南娱乐,http://4eae7f.tv.netsite.cc/proxy/884645401/884645401.m3u8
+湖南都市,http://4eae7f.tv.netsite.cc/proxy/1116439121/1116439121.m3u8
+电视剧,http://4eae7f.tv.netsite.cc/proxy/649200103/649200103.m3u8
+金鹰纪实,http://4eae7f.tv.netsite.cc/proxy/46690299/46690299.m3u8
+湖南爱晚,http://4eae7f.tv.netsite.cc/proxy/1916495164/1916495164.m3u8
+金鹰卡通,http://4eae7f.tv.netsite.cc/proxy/1947104640/1947104640.m3u8
+国际频道,http://4eae7f.tv.netsite.cc/proxy/1627651873/1627651873.m3u8
 上海外语频道,http://4eae7f.tv.netsite.cc/proxy/1701776112/1701776112.m3u8
 上海第一财经,http://4eae7f.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
 上海纪实人文,http://4eae7f.tv.netsite.cc/proxy/1975883896/1975883896.m3u8
@@ -185,14 +193,6 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 河南移动戏曲频道,http://4eae7f.tv.netsite.cc/proxy/606632094/606632094.m3u8
 河南文物宝库频道,http://4eae7f.tv.netsite.cc/proxy/908742171/908742171.m3u8
 河南洛阳新闻综合频道,http://4eae7f.tv.netsite.cc/proxy/95478034/95478034.m3u8
-湖南经视,http://4eae7f.tv.netsite.cc/proxy/1075467511/1075467511.m3u8
-湖南娱乐,http://4eae7f.tv.netsite.cc/proxy/884645401/884645401.m3u8
-湖南都市,http://4eae7f.tv.netsite.cc/proxy/1116439121/1116439121.m3u8
-电视剧,http://4eae7f.tv.netsite.cc/proxy/649200103/649200103.m3u8
-金鹰纪实,http://4eae7f.tv.netsite.cc/proxy/46690299/46690299.m3u8
-湖南爱晚,http://4eae7f.tv.netsite.cc/proxy/1916495164/1916495164.m3u8
-金鹰卡通,http://4eae7f.tv.netsite.cc/proxy/1947104640/1947104640.m3u8
-国际频道,http://4eae7f.tv.netsite.cc/proxy/1627651873/1627651873.m3u8
 茶频道,http://4eae7f.tv.netsite.cc/proxy/1322311734/1322311734.m3u8
 快乐垂钓,http://4eae7f.tv.netsite.cc/proxy/316113716/316113716.m3u8
 先锋乒羽,http://4eae7f.tv.netsite.cc/proxy/1789306185/1789306185.m3u8
