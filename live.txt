@@ -305,17 +305,9 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 
 
 港澳台,#genre#
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-华视,rtmp://f13h.mine.nu/sat/tv111
-民视,rtmp://f13h.mine.nu/sat/tv051
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来体育,rtmp://f13h.mine.nu/sat/tv771
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
+
 
 数字电视,#genre#
 NewTV爱情喜剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
@@ -376,27 +368,12 @@ iHOT爱院线,http://[2409:8087:5e08:24::11]:6610/000000001000/60000000060000306
 
 世界,#genre#
 有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
-耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-CGNTV,http://live.cgtn.com/1000/prog_index.m3u8
-CGNTV,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGNTV,http://livees.cgtn.com/1000e/prog_index.m3u8
-CGNTV,http://liveru.cgtn.com/1000r/prog_index.m3u8
-CGNTV,https://livedoc.cgtn.com/500d/prog_index.m3u8
 THAIPBS-3,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+
 
