@@ -19,7 +19,6 @@ CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/ind
 CCTV-16 奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17 农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-03 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8 
 CCTV-04 中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
@@ -173,13 +172,15 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 
 
 地方台,#genre#
-湖南经视,http://4eae7f.tv.netsite.cc/proxy/1075467511/1075467511.m3u8
-湖南娱乐,http://4eae7f.tv.netsite.cc/proxy/884645401/884645401.m3u8
-湖南都市,http://4eae7f.tv.netsite.cc/proxy/1116439121/1116439121.m3u8
-电视剧,http://4eae7f.tv.netsite.cc/proxy/649200103/649200103.m3u8
+湖南娱乐,http://218.77.81.186:9901/tsfile/live/1002_1.m3u8
+湖南电影,http://218.77.81.186:9901/tsfile/live/1003_1.m3u8
+湖南都市,http://218.77.81.186:9901/tsfile/live/1007_1.m3u8
+湖北影视,http://220.249.114.102:9901/tsfile/live/1010_1.m3u8
+济南影视,http://221.0.78.198:1681/hls/10282/index.m3u8
+湖南电影,http://222.243.221.54:9901/tsfile/live/1003_1.m3u8
+湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 金鹰纪实,http://4eae7f.tv.netsite.cc/proxy/46690299/46690299.m3u8
-湖南爱晚,http://4eae7f.tv.netsite.cc/proxy/1916495164/1916495164.m3u8
-金鹰卡通,http://4eae7f.tv.netsite.cc/proxy/1947104640/1947104640.m3u8
 国际频道,http://4eae7f.tv.netsite.cc/proxy/1627651873/1627651873.m3u8
 上海外语频道,http://4eae7f.tv.netsite.cc/proxy/1701776112/1701776112.m3u8
 上海第一财经,http://4eae7f.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
@@ -225,7 +226,6 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 陕西都市青春,http://4eae7f.tv.netsite.cc/proxy/391844543/391844543.m3u8
 陕西生活频道,http://4eae7f.tv.netsite.cc/proxy/286895848/286895848.m3u8
 陕西公共频道,http://4eae7f.tv.netsite.cc/proxy/1782806707/1782806707.m3u8
-陕西购物,http://4eae7f.tv.netsite.cc/proxy/1183146985/1183146985.m3u8
 陕西体育休闲,http://4eae7f.tv.netsite.cc/proxy/742107634/742107634.m3u8
 福建综合频道,http://4eae7f.tv.netsite.cc/proxy/269896449/269896449.m3u8
 福建东南卫视,http://4eae7f.tv.netsite.cc/proxy/1989099435/1989099435.m3u8

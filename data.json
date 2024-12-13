@@ -1,15 +1,13 @@
 {
-    "spider": "http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+    "spider": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
     "wallpaper": "https://bing.img.run/uhd.php",
     "lives": [
         {
             "name": "live",
             "type": 0,
             "playerType": 1,
-            "url": "https://helloy0920.github.io/tvsourceconfig.github.io/live.txt",
-            "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "url": "./live/live.txt",
+            "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
@@ -23,7 +21,27 @@
         "playerType": 2,
         "filterable": 1,
         "ext": ""
-    }, {
+    }, 
+    {
+        "key": "豆豆",
+        "name": "🎃豆瓣┃搜索",
+        "type": 3,
+        "api": "csp_DouDou",
+        "searchable": 1,
+        "quickSearch":1,
+        "filterable": 1,
+        "jar":"./jar/fan.txt;md5;f98827d83bb8ca104b0b1ead61a98c5b"
+    },
+
+    {
+        "key": "drpy_js_360影视",
+        "name": "🥇官源┃360[js]",
+        "type": 3,
+        "api": "./lib/drpy2.min.js",
+        "ext": "./js/360影视.js"
+    },
+
+    {
         "key": "天天",
         "name": "天天┃App",
         "type": 3,
